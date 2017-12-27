@@ -1,0 +1,20 @@
+{
+    "name": "bellisq/mvc",
+    "description": "Bellisq MVC",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Showsay You",
+            "email": "akizuki.c10.l65@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bellisq\\MVC\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2"
+    }
+}
